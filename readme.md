@@ -9,20 +9,22 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Django**
+- 👯 I’m looking to collaborate on **Python**
 
 - 🤝 I’m looking for help with **Django**
 
-- 💬 Ask me about **Django, AI/ML**
+- 💬 Ask me about **Django, DataScience**
 
 - 📫 How to reach me **avksmlavk@gmail.com**
 
-- ⚡ Fun fact **I think I am noob but I am a pro.**
+- ⚡ Fun fact **Declare a variable ! Not war !.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhisek-samal-8b464621a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisek-samal-8b464621a" height="30" width="40" /></a>
-  <a href="https://mobile.twitter.com/Abhisek65668321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisek-samal-8b464621a" height="30" width="40" /></a>
+</p>
+<p align="left">
+ <a href="https://mobile.twitter.com/Abhisek65668321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisek-samal-8b464621a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
