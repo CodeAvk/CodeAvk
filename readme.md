@@ -24,6 +24,7 @@
 <a href="https://linkedin.com/in/abhisek-samal-8b464621a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisek-samal-8b464621a" height="30" width="40" /></a>
 <a href="https://mobile.twitter.com/Abhisek65668321" target="blank"><img align="center"  src="https://github.com/aritraroy/social-icons/raw/master/twitter-icon.png?raw=true" width="60" height="60" style="max-width: 100%;" alt="abhisek-samal-8b464621a" height="30" width="40" /></a>
 <a href="https://www.instagram.com/samalavisek/" target="blank"><img align="center"  src="https://github.com/aritraroy/social-icons/raw/master/instagram-icon.png?raw=true" width="60" height="60" style="max-width: 100%;" alt="abhisek-samal-8b464621a" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/avisek.samal.92" target="blank"><img align="center"  src="https://github.com/aritraroy/social-icons/raw/master/facebook-icon.png?raw=true" width="60" height="60" style="max-width: 100%;" alt="abhisek-samal-8b464621a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
