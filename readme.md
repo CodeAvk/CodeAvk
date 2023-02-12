@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 👯 I’m looking to collaborate on **WebDevelopment**
+<!-- - 👯 I’m looking to collaborate on **WebDevelopment** -->
 
 - 🤝 I’m looking for help with **Django**
 
