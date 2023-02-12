@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeavk" alt="codeavk" /></a> </p>
 
-- 🔭 I’m currently working on **working on django**
+- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Django**
-
-- 👯 I’m looking to collaborate on **Python**
+- 👯 I’m looking to collaborate on **WebDevelopment**
 
 - 🤝 I’m looking for help with **Django**
 
-- 💬 Ask me about **Django, DataScience**
+- 💬 Ask me about **Python,Javascript**
 
 - 📫 How to reach me **avksmlavk@gmail.com**
 
