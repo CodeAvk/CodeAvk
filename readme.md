@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeavk" alt="codeavk" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/abhisek65668321" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/abhisek65668321?logo=twitter&style=for-the-badge" alt="https://twitter.com/abhisek65668321" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **working on React**
 
@@ -26,7 +26,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/codeavk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/codeavk" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/abhisek65668321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/abhisek65668321" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhisek-samal-8b464621a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisek-samal-8b464621a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17252518/abhisek-samal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17252518/abhisek-samal" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/avk007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/avk007" height="30" width="40" /></a>
