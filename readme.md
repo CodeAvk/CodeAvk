@@ -11,15 +11,15 @@
 <img align="right" alt="coading" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
 
-- 🔭 I’m currently working on **working on React**
+- 🔭 I’m currently working on **working on React and Go**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React,Go**
 
-- 🤝 I’m looking for help with **Django,React**
+- 🤝 I’m looking for help with **Django,React,Go**
 
 - 👨‍💻 All of my projects are available at [https://codeavk.github.io/portfoliobnb.git.io-main/](https://codeavk.github.io/portfoliobnb.git.io-main/)
 
-- 💬 Ask me about **Javascript,Django, AI/ML**
+- 💬 Ask me about **Javascript,Django, Go**
 
 - 📫 How to reach me **avksmlavk@gmail.com**
 
