@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **avksmlavk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LqXIMhWIkoUsNZlpwrpg7cPCUOJfBmfp/view?usp=share_link](https://drive.google.com/file/d/1LqXIMhWIkoUsNZlpwrpg7cPCUOJfBmfp/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LqXIMhWIkoUsNZlpwrpg7cPCUOJfBmfp/view?usp=share_link](https://drive.google.com/file/d/1Z60vNGxRstgf3zwQTvr-FI4Xn-r5xbsv/view?usp=sharing)
 
 - ⚡ Fun fact **"Why did the developer go broke? Because he lost his version control and couldn't commit!"**
 
