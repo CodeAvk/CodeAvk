@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **Django,React,Go**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://abhishek-portfolio-scarr33.vercel.app/)
+- 👨‍💻 All of my projects are available at [Link](https://abhishek-portfolio-scarr33.vercel.app/)
 
 - 💬 Ask me about **Javascript,Django, Go**
 
