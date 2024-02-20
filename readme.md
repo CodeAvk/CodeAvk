@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **Django,React,Go**
 
-- 👨‍💻 All of my projects are available at [https://codeavk.github.io/portfoliobnb.git.io-main/](https://codeavk.github.io/portfoliobnb.git.io-main/)
+- 👨‍💻 All of my projects are available at [https://codeavk.github.io/portfoliobnb.git.io-main/](https://abhishek-portfolio-scarr33.vercel.app/)
 
 - 💬 Ask me about **Javascript,Django, Go**
 
