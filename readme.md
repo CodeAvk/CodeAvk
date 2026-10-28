@@ -7,6 +7,11 @@
 </p>
 
 <p align="center">
+  <!-- PASTE YOUR GIF LINK BELOW (replace PASTE_GIF_URL_HERE), e.g. a direct .gif link from giphy.com or tenor.com -->
+  <img src="PASTE_GIF_URL_HERE" width="380" alt="coding gif" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodeAvk&label=Profile+views&color=0e75b6&style=flat" alt="views" />
 </p>
 
@@ -66,6 +71,14 @@ class Abhisek:
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeAvk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAvk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" />
 </p>
+
+### 📈 Contribution activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeAvk&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff" width="100%" alt="activity graph" />
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=CodeAvk&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
 
 ## 🔗 Find me
 
