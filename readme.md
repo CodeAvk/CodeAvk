@@ -1,8 +1,8 @@
-<h1 align="center">Hey, I'm Abhisek Samal 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header&text=Abhisek%20Samal&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full-stack%20%2B%20AI%20engineer&descAlignY=60&descSize=16" width="100%" alt="header" />
 
 <p align="center">
   <a href="https://github.com/CodeAvk">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Development+Engineer;I+build+backends+that+don't+fall+over;Medical+imaging+%7C+AI+%7C+Web" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%7C+Frontend+%7C+MLOps;Building+AI+products+end+to+end;Medical+imaging+%26+DICOM+%E2%9D%A4%EF%B8%8F" alt="typing intro" />
   </a>
 </p>
 
@@ -10,57 +10,67 @@
   <img src="https://komarev.com/ghpvc/?username=CodeAvk&label=Profile+views&color=0e75b6&style=flat" alt="views" />
 </p>
 
----
-
 ```python
 class Abhisek:
-    role      = "Software Development Engineer @ DeepTek"
-    building  = "Genki Edge, an AI medical imaging platform"
-    based_in  = "India 🇮🇳 (Odisha → Bengaluru)"
-    daily     = ["Python", "Django", "FastAPI", "Next.js", "PostgreSQL"]
-    learning  = ["Go", "System design", "LLM agents"]
-    side_quests = ["Resume Tailor AI", "Ripple", "StockIQ"]
-    ask_me_about = ["DICOM / PACS", "Celery pipelines", "Shipping fast"]
+    role     = "Software Development Engineer @ DeepTek"
+    work     = "Genki Edge: AI-powered medical imaging platform"
+    based_in = "India 🇮🇳"
+    focus    = ["Backend", "Frontend", "MLOps", "LLM apps"]
 
-    def motto(self):
-        return "make it work, make it clean, then make it fast"
+    def ship(self):
+        return "idea -> API -> UI -> model in prod"
 ```
 
----
+## 💬 Ask me about
 
-### 🧰 Tech Stack
+| 🛠️ Backend | 🎨 Frontend | 🤖 AI / MLOps | 🏥 Medical imaging |
+|---|---|---|---|
+| Django, FastAPI | Next.js, React, TypeScript | Model serving, pipelines, LLM apps | DICOM, PACS, Orthanc |
+| Celery + Redis queues | Tailwind, dashboards | Docker, GCP, CI/CD | Imaging workflows at scale |
+| PostgreSQL, MongoDB | Clean, fast UIs | Claude + Gemini APIs | AI on top of radiology data |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,go,django,fastapi,nextjs,react,tailwind&theme=dark" alt="languages and frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,gcp,git,linux,postman,vscode&theme=dark" alt="infra and tools" />
-</p>
+## 🧰 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" alt="Celery" />
-  <img src="https://img.shields.io/badge/Orthanc-DICOM%2FPACS-2b2b2b?style=flat" alt="Orthanc" />
-</p>
+**Languages & frameworks**
 
----
+<img src="https://skillicons.dev/icons?i=py,ts,js,go,django,fastapi,nextjs,react,tailwind&theme=dark" alt="languages and frameworks" />
 
-### 📊 GitHub Stats
+**Data & infra**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,gcp,githubactions,nginx,linux,git&theme=dark" alt="data and infra" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="ai ml" />
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude API" />
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=googlegemini&logoColor=white" alt="Gemini API" />
+<img src="https://img.shields.io/badge/LLM_Agents-1f6feb?style=flat" alt="LLM agents" />
+<img src="https://img.shields.io/badge/MLOps-0d1117?style=flat&logo=mlflow&logoColor=0194E2" alt="MLOps" />
+
+**Other**
+
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" alt="Celery" />
+<img src="https://img.shields.io/badge/DICOM-Orthanc-2b2b2b?style=flat" alt="DICOM Orthanc" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+
+## 🚀 Things I've built
+
+- **Genki Edge**: AI-powered medical imaging platform (DeepTek)
+- **Resume Tailor AI**: agentic resume-tailoring pipeline using the Claude API
+- **Ripple**: news pattern analysis using the Gemini API
+- **StockIQ**: inventory SaaS demo
+
+## 📊 GitHub Stats
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeAvk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAvk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" />
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com/?user=CodeAvk&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
-</p>
+## 🔗 Find me
 
----
+<a href="https://avk-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/abhiseksamal07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/CodeAvk"><img src="https://img.shields.io/badge/GitHub-30363d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-### 🔗 Find me
-
-<p>
-  <a href="https://avk-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/abhiseksamal07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/CodeAvk"><img src="https://img.shields.io/badge/GitHub-30363d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<sub>`git commit -m "fun fact: I lost my version control and couldn't commit"` 😄</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=80&section=footer" width="100%" alt="footer" />
