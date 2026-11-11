@@ -200,11 +200,19 @@ class Abhisek:
 <!--                 CONTRIBUTION GRAPH               -->
 <!-- ================================================= -->
 
-## 📈 Contribution Activity
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/1f6feb/CodeAvk" width="100%" alt="GitHub contribution calendar" />
+  <img src="https://komarev.com/ghpvc/?username=CodeAvk&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" alt="Profile Views" />
+
+  <img src="https://img.shields.io/github/followers/CodeAvk?label=FOLLOWERS&color=238636&style=for-the-badge&logo=github" alt="Followers" />
+
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCodeAvk&query=%24.public_repos&label=PUBLIC%20REPOS&color=8957e5&style=for-the-badge" alt="Public Repositories" />
+
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCodeAvk&query=%24.following&label=FOLLOWING&color=blue&style=for-the-badge" alt="Following" />
 </p>
+
 
 <!-- ================================================= -->
 <!--                 PROFESSIONAL PROFILE             -->
