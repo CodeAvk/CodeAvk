@@ -17,8 +17,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodeAvk&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" alt="Profile views" />
+
   <img src="https://img.shields.io/github/followers/CodeAvk?label=FOLLOWERS&style=for-the-badge&color=238636&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/repos/CodeAvk?label=PUBLIC%20REPOS&style=for-the-badge&color=8957e5&logo=github" alt="Public repositories" />
+
+  <img src="https://img.shields.io/github/repo-count/CodeAvk?label=PUBLIC%20REPOS&style=for-the-badge&color=8957e5&logo=github" alt="Public repositories" />
 </p>
 
 ---
