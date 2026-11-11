@@ -179,12 +179,22 @@ class Abhisek:
 <!--                  GITHUB STATISTICS               -->
 <!-- ================================================= -->
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodeAvk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAvk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top languages" />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=CodeAvk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=CodeAvk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"
+    alt="Top Programming Languages"
+  />
 </p>
+
 
 <!-- ================================================= -->
 <!--                 CONTRIBUTION GRAPH               -->
