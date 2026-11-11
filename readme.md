@@ -20,7 +20,8 @@
 
   <img src="https://img.shields.io/github/followers/CodeAvk?label=FOLLOWERS&style=for-the-badge&color=238636&logo=github" alt="Followers" />
 
-  <img src="https://img.shields.io/github/repo-count/CodeAvk?label=PUBLIC%20REPOS&style=for-the-badge&color=8957e5&logo=github" alt="Public repositories" />
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCodeAvk&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&color=8957e5&logo=github" alt="Public repositories" />
 </p>
 
 ---
