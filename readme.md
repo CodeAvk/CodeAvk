@@ -247,7 +247,7 @@ class Abhisek:
 </p>
 
 <p align="center">
-  <i>Building, learning, and shipping something better every day.</i>
+  <i>Building, learning, and shipping something better every day</i>
 </p>
 
 <!-- ================================================= -->
